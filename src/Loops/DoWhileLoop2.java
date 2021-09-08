@@ -1,6 +1,6 @@
 package Loops;
 
-public class DoWhileLoops2 {
+public class DoWhileLoop2 {
 
     public static void main(String[] args) {
 
