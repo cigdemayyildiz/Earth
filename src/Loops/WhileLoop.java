@@ -1,6 +1,6 @@
 package Loops;
 
-public class WhileLoops {
+public class WhileLoop {
 
     public static void main(String[] args) {
 
