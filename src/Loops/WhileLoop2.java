@@ -2,7 +2,7 @@ package Loops;
 
 import java.util.Scanner;
 
-public class WhileLoops2 {
+public class WhileLoop2 {
 
     public static void main(String[] args) {
 
