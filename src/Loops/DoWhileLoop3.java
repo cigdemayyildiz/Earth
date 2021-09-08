@@ -2,7 +2,7 @@ package Loops;
 
 import java.util.Scanner;
 
-public class DoWhileLoops3 {
+public class DoWhileLoop3 {
 
     public static void main(String[] args) {
 
