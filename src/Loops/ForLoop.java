@@ -6,7 +6,6 @@ public class ForLoop {
 
     public static void main(String[] args) {
 
-
         // get a positive integer from user which less than 10
         // print out the number starting from that given number to 10 is included
 
