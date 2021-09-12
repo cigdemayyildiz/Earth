@@ -37,7 +37,7 @@ public class ArrayPractice {
         System.out.println(numbers.length); // 5
 
         for (int i=0;i<numbers.length;i++){
-            System.out.println("** "+numbers[i]); // 11 - 22 - 0 - 44 - 0 --> they will come by one by
+            System.out.println("**** "+numbers[i]); // 11 - 22 - 0 - 44 - 0 --> they will come by one by
         }
 
         int b [] = {1,3,5,7,9};
