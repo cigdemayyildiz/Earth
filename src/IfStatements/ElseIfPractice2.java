@@ -6,7 +6,7 @@ public class ElseIfPractice2 {
 
     public static void main(String[] args) {
 
-                /*
+        /*
         Biggest Number
         ask user to enter three numbers
         find the biggest number among those three entries

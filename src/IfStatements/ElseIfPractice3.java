@@ -6,7 +6,7 @@ public class ElseIfPractice3 {
 
     public static void main(String[] args) {
 
-                /*
+        /*
         Ask user to enter his/her score from an exam
         - if score is between 90 - 100 --> print A
         - if score is between 80 - 89 --> print B

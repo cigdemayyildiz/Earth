@@ -6,7 +6,7 @@ public class ElsePractice {
 
     public static void main(String[] args) {
 
-          /* Ask user if they have driver license
+        /* Ask user if they have driver license
         if they have print "You are great"
         if they do not hove print "You should have license before getting on the road."
          */
