@@ -34,4 +34,5 @@ public class NestedIfPractice3 {
         else {
             System.out.println("We are looking for someone who knows Java.");
         }
+    }
 }
