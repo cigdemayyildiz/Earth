@@ -2,7 +2,7 @@ package IfStatements;
 
 import java.util.Scanner;
 
-public class ElsePractice2 {
+public class Else2 {
 
     public static void main(String[] args) {
 
