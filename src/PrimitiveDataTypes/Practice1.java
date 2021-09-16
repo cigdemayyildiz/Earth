@@ -4,10 +4,10 @@ public class Practice1 {
 
     public static void main(String[] args) {
 
-         /*
+        /*
         Create 3 variables to store your age, height, and weight and print them using println.
         myAge, myHeight and myWeight
-         */
+        */
 
         int myAge = 30;
         int myWeight = 52;

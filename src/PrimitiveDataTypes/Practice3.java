@@ -4,12 +4,12 @@ public class Practice3 {
 
     public static void main(String[] args) {
 
-         /*
+        /*
         Write the java program that converts given kilogram values to pounds and grams.
         Example: 8 kg
         Output: 17.64 pounds 8000 grams
         NOTE: for an approximate result of kg to pount, multiply the mass value by 2.205
-         */
+        */
 
         int kilograms = 8;
         int grams = kilograms*1000;
