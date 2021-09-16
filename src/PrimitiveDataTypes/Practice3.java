@@ -4,7 +4,7 @@ public class Practice3 {
 
     public static void main(String[] args) {
 
-        /*
+         /*
         Write the java program that converts given kilogram values to pounds and grams.
         Example: 8 kg
         Output: 17.64 pounds 8000 grams
