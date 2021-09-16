@@ -2,7 +2,7 @@ package IfStatements;
 
 import java.util.Scanner;
 
-public class NestedIfPractice2 {
+public class NestedIfStatement2 {
 
     public static void main(String[] args) {
 

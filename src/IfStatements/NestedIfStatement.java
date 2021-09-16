@@ -1,6 +1,6 @@
 package IfStatements;
 
-public class NestedIfPractice {
+public class NestedIfStatement {
 
     public static void main(String[] args) {
 
