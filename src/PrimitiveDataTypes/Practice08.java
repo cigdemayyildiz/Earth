@@ -1,6 +1,6 @@
 package PrimitiveDataTypes;
 
-public class Practice8 {
+public class Practice08 {
 
     public static void main(String[] args) {
 
