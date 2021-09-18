@@ -1,5 +1,7 @@
 package Loops;
 
+import java.util.Scanner;
+
 public class Practice04 {
 
     public static void main(String[] args) {
@@ -14,6 +16,16 @@ public class Practice04 {
         ...
         “aaaaaaa”
          */
+
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please enter a String value"); // Success
+        String value = input.nextLine();
+        String str = "";
+
+        for (int i=0, k=1; i<value.length(); i++, k++){
+            str+="a";
+            System.out.println(str+value.substring(k));
+        }
 
     }
 }
