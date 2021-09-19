@@ -22,7 +22,7 @@ public class Practice12 {
         }
         System.out.println(reversed);
 
-        // Second way for TASK-5
+        // Second way
 
         int num = 12345;
 
