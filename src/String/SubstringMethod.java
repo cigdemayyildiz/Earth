@@ -20,7 +20,5 @@ public class SubstringMethod {
         java.lang.String part1 = email.substring(email.indexOf("@"));
         System.out.println(part1);
 
-
-
     }
 }
