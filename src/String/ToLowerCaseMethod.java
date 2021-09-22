@@ -13,8 +13,8 @@ public class ToLowerCaseMethod {
         System.out.println(str);
         System.out.println(quote.toUpperCase());
         System.out.println(quote);
-        quote = quote.toUpperCase(); // tum harfleri buyuk harf yap metodu
-        System.out.println(quote.indexOf('D')); // bir ust satirda tum harfler buyuk harf yapildigi icin bu metod calisiyor, eger tum harfleri buyuk yapmasaydik sonuc -1 olacakti
+        quote = quote.toUpperCase();
+        System.out.println(quote.indexOf('D'));
 
         java.lang.String result = str.concat(quote);
         System.out.println(result);
