@@ -1,4 +1,4 @@
-package PrimitiveDataTypes;
+package UnaryOperators;
 
 public class UnaryOperator {
 
