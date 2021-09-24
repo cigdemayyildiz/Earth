@@ -41,7 +41,6 @@ public class Switch3 {
         **** SWITCH DOES NOT SUPPORT BOOLEAN DATA TYPE ****
 
          */
-    }
 
     }
 }
