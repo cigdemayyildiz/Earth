@@ -22,12 +22,12 @@ public class ArrayList3 {
         System.out.println(cars1[2]); // tofas
         System.out.println(cars1[0]); // nissan
 
-        List<Object> list1 = Arrays.asList(1,2,3,4); // basta listeyi olustururken istedigin kadar veri girebilirsin
-        // ama size burada belirleniyor sonradan ekleme cikarma yapamiyorsun
+        List<Object> list1 = Arrays.asList(1,2,3,4);
+
         System.out.println(list1); // [1, 2, 3, 4]
 //        list1.add(5); // yeni veri ekleyemezsin
 //        System.out.println(list1); // UnsupportedOperationException
-        list1.set(1,100); // ekleme cikarma yapamiyorsun ama degistirme yapabiliyorsun, sadece size ile oynayamiyorsun
+        list1.set(1,100);
         System.out.println(list1); // [1, 100, 3, 4]
 
     }
