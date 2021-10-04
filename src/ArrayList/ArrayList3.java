@@ -25,7 +25,7 @@ public class ArrayList3 {
         List<Object> list1 = Arrays.asList(1,2,3,4);
 
         System.out.println(list1); // [1, 2, 3, 4]
-//        list1.add(5); // yeni veri ekleyemezsin
+//        list1.add(5);
 //        System.out.println(list1); // UnsupportedOperationException
         list1.set(1,100);
         System.out.println(list1); // [1, 100, 3, 4]
